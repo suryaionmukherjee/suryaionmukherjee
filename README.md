@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Suryaion Mukherjee! 👋
 
-<!--
-**suryaionmukherjee/suryaionmukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Aspiring Embodied AI Engineer
+**B.Tech ECE (AI & Cybernetics) Student at VIT Bhopal**
 
-Here are some ideas to get you started:
+I am an Electronics and Communication Engineering student passionate about bridging the gap between software intelligence and physical hardware. My academic focus is on **Cybernetics** and **Computer Vision**, with a goal to build intelligent agents that can perceive and interact with the real world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Competencies
+* **Languages:** Python, C++, Java, MATLAB
+* **Domains:** Artificial Intelligence, Computer Vision, Embedded AI, IoT
+* **Tools:** Simulink, GitHub
+
+---
+
+### 🔭 Projects
+* **Vision-Based Force Estimation in Compliant Robotic End-Effectors:**
+  * *Status:* Ongoing Academic Project
+  * Developing a non-tactile force estimation system for robotic grippers using Computer Vision and Embedded AI.
+* **AeroSweep Mechanism:**
+  * *Status:* Design Project
+  * Conceptualized an automated dust-removal system using a linear track and "sandwich" sweeper mechanism.
+
+---
+
+### 📜 Certifications
+* **MATLAB Onramp** (MathWorks)
+* **Simulink Onramp** (MathWorks)
+* **Explore Data with MATLAB Plots** (MathWorks)
+
+---
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=suryaionmukherjee&show_icons=true&theme=radical" alt="Suryaion's Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaionmukherjee&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
