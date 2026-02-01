@@ -31,7 +31,4 @@ I am an Electronics and Communication Engineering student passionate about bridg
 
 ---
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=suryaionmukherjee&show_icons=true&theme=radical" alt="Suryaion's Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaionmukherjee&layout=compact&theme=radical" alt="Top Langs" height="150"/>
-</p>
+
