@@ -7,7 +7,7 @@ I am an Electronics and Communication Engineering student passionate about bridg
 
 ---
 
-### 🛠️ Tech Stack & Competencies
+### 🛠️ Skills & Technologies
 * **Languages:** Python, C++, Java, MATLAB
 * **Domains:** Artificial Intelligence, Computer Vision, Embedded AI, IoT
 * **Tools:** Simulink, GitHub
