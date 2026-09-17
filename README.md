@@ -15,9 +15,6 @@ I am an Electronics and Communication Engineering student passionate about bridg
 ---
 
 ### 🔭 Projects
-* **Vision-Based Force Estimation in Compliant Robotic End-Effectors:**
-  * *Status:* Ongoing Academic Project
-  * Developing a non-tactile force estimation system for robotic grippers using Computer Vision and Embedded AI.
 * **AeroSweep Mechanism:**
   * *Status:* Design Project
   * Conceptualized an automated dust-removal system using a linear track and "sandwich" sweeper mechanism.
